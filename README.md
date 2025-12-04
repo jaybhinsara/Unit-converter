@@ -42,13 +42,13 @@ I created this project to provide a minimal, easy-to-use converter without relyi
 
 ## Demo / Screenshot
 
-> _You may insert a screenshot or GIF of the web UI here._  
-> Example:  
-> `![Unit-converter demo screenshot](path/to/screenshot.png)`  
+<img width="877" height="1212" alt="Screenshot 2025-12-05 005542" src="https://github.com/user-attachments/assets/81da13af-1536-465a-b4b1-155ed0daff26" />
+ 
 
 ---
 
 ## Getting Started
+
 
 ### Prerequisites
 
